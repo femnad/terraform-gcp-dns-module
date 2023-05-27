@@ -9,4 +9,3 @@ A module for lazy GCP DNS record creation via Terraform.
 * `dns_name`: DNS name for the instance
 * `instance_ip_addr`: IP address for the DNS record
 * `managed_zone`: A GCP managed zone name
-* `project`: A GCP project to user
